@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0-beta",
+  "version_display": "v1.0.0测试版",
+  "download_url": "https://github.com/cheng1260/excel-search-updates/releases/latest",
+  "release_notes": "初始版本",
+  "min_version": "1.0.0",
+  "force_update": false
+}
