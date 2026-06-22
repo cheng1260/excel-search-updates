@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "version_display": "v1.0.0\u6b63\u5f0f\u7248",
-  "download_url": "https://gitee.com/cheng1260/excel-search-updates/releases/download/v1.0.0/ExcelSearch.exe",
+  "download_url": "https://github.com/cheng1260/excel-search-updates/releases/download/v1.0.0/ExcelSearch.exe",
   "release_notes": "\u6b63\u5f0f\u7248\u53d1\u5e03",
   "min_version": "1.0.0",
   "force_update": false
